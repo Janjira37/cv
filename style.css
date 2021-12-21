@@ -1,31 +1,56 @@
+body {
+  background-color: #FAF0E6;
+}
 
-    body{
-      background-color: #C71585;
-    }
+hr {
+  border-style: none;
+  background-color: #FAF0E6;
+  border-style: dotted;
+  border-width: 15px;
+  border-width: MediumOrchid ;
+  border-top: none;
+
+  width: 10%;
+}
+
+img {
+  height: 250px;
+}
+
+#id {
+  background-color: #87CEFA;
+  color: #298797;
+
+}
+
+.class {
+  background-color: #5cb3a7;
+  color: #bd3a3a;
+
+}
+
+body {
     
-    hr{
-      border-style: dotted ;
-      border-top:none ;
-      border-left:none ;
-      border-right:none ;
-      border-width: 15px;
-      border-color: MediumVioletRed	;
-      width: 30%;
-      
-    }
-    img{
-      height: 150px;
-    }
+    color: #778899;
 
-      h1 {
-        color: #1e836c;
-      }
+}
 
-      h2 {
-        color: #1e836c;
-      }
-      
-      h3 {
-        color: #1e836c;
-      }
+h1 {
 
+  color: #1e836c;
+}
+
+h2 {
+
+  color: #1e836c;
+}
+
+h3 {
+ 
+  color: #1e836c;
+}
+
+p {
+
+  color: #1e836c;
+}
